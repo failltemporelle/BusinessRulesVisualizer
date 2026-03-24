@@ -38,6 +38,10 @@ declare global {
                         table: 'sys_script_include'
                         id: 'adcd2586f6704c598d38e41dfc704e5f'
                     }
+                    'si.user_visualizer_service': {
+                        table: 'sys_script_include'
+                        id: '26153e8469554b50bfba6a1fc18dd5b5'
+                    }
                     'x_1118332_brv/main': {
                         table: 'sys_ux_lib_asset'
                         id: '21ab608f334f4bbdabc778afa0218be1'
